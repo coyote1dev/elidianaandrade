@@ -34,4 +34,4 @@
  
   <div align="right">Made with 💜 by <a href="https://github.com/elidianaandrade">EA</a>.</div>
 
-</details>
+</details> .
